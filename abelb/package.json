@@ -1,0 +1,23 @@
+{
+  "name": "abelb_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelb/abelb_dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelb/abelb_dev/issues"
+  },
+  "homepage": "https://github.com/abelb/abelb_dev#readme",
+  "dependencies": {
+    "compass": "^0.1.1"
+  }
+}
